@@ -1,2 +1,22 @@
-# CS-250-Portfolio
+# CS-250-Portfolio Cody VanGosen
 This is a repository of my project files and final submission for my final portfolio for the CS-250 Class at SNHU.
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+User needs can be ascertained through initial planning, meetings, and brainstorming with stakeholders and the development team as a whole. These features can be refined through the use of agile principles and due to the adaptable nature of such implementation flexibility is provided to adjust requirements as necessary throughout the development lifecycle.
+From this, daily standups and sprint reviews can allow for progress on user stories and any identified barriers to be expanded upon which allows for refinement of product requirements and user stories. Maintaining a product backlog and visually demonstrating requirements through the use of a user storyboard can allow for features to be grouped 
+by work required, and feature interdependencies, and facilitate the grouping of several user stories into larger more complex epics. These user stories break larger requirements into much more manageable and concise bite-sized chunks of requirements that allow for easier and quicker implementation. This lends to allowing more debugging time and progress of
+the overall product launch to be more directly measured as individual features are incorporated.
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+Agile processes and methodologies provide an adaptable and flexible approach to the development lifecycle. This is achieved through its blending of strategic planning phases, iterative design approach, and flexible implementation. This iterative approach facilitates better debugging throughout the development process. This is because barriers and new
+feature requirements may present themselves at a later time. An agile approach allows for the iterative nature to be used to refine already completed requirements to better fit emerging needs. This contrasts with a traditional waterfall approach which follows a more sequential step-wise staircase approach, wherein moving back to prior completed stages
+can be more difficult. For this reason, agile processes seem like a great alternative to consider in a broader sense for the majority of my development work. The ability of Scrum to organize teams into iterative cycles of sprints lasting a few weeks at a time allows for direct and reviewable action to occur for these processes that cost less time
+and resources to implement than simply delivering a complete final product. Breaking the project down into smaller achievable goals delivers incremental value in addition to the flexibility to adapt features as needed. Kanban seems like another important concept to consider for development work. The importance of clearly defining rquireminets and responsibilities while remaining transparent and flexible seems like an invaluable tool for any team.
+
+What does it mean to be a good team member in software development?
+
+Being a good team member in software development goes beyond possessing technical proficiency in programming skills. It instead includes a myriad of skills revolving around interpersonal communication, collaborative skills, shared ownership, and a savvy understanding of common business approaches. Being able to communicate clearly and transparently with
+stakeholders, managers, and the development team as a whole are all paramount to successful product delivery. Team members must be able to offer structured criticism to one another to allow for better analysis of programming and help to ensure product features are completely understood and met. Team members must be adaptable and be able to work in the flexible
+environments required by modern business requirements and software solutions. Problem-solving skills are a must-have and team members should approach change and challenge with open arms as these both help better refine a product to better meet customer satisfaction. Most importantly a good team member must be accountable. This helps to ensure features and work are submitted within outlined guidelines as well as allowing team members to own their successes and failures along the way. Owning your responsibilities and roles helps to ensure accountability is held across teams and can help deadlines for each department to be more easily met due to requirements and progress being transparent to all involved.
